@@ -1,2 +1,2 @@
-# gorsel-programlama
-Görsel Programlama Ödevi
+# ÖDEV
+.cs dosyaları düzenlendi, türkçe şekilde düzenledim.
